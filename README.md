@@ -71,10 +71,4 @@ npm run preview
 - Full-stack applications with FastAPI + React
 - Industry experience at Nokia and TCS SmartBridge
 
-## 📄 License
 
-© 2025 Shivin Bassi. All rights reserved.
-
----
-
-**Designed & Built with 💜 by Shivin Bassi**
